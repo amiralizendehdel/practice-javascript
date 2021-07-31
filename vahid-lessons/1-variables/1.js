@@ -6,12 +6,17 @@ const var4 = {
   ahmad: 12312,
   myfunction: function () {},
   myArray: [],
+  myObj: {},
 };
+
+const myFun1 = function (params) {};
+
+function myFun2() {}
 
 // object
 const var3 = []; // array
 
-var xx = 3.14;
+let xx = 3.14;
 
 const x = 43;
 // let y = 43;
@@ -44,3 +49,18 @@ console.log(result);
 console.log(result2);
 
 xx = 123123;
+
+const a = {
+  vahid: "sfdsd",
+  age: 12,
+};
+
+a.vahid;
+a.age;
+
+const b = [12, 12, 12, 12, "asdasd", "asdasd"];
+
+b[0];
+b[2];
+
+
