@@ -61,6 +61,4 @@ a.age;
 const b = [12, 12, 12, 12, "asdasd", "asdasd"];
 
 b[0];
-b[2];
-
-
+b[2]; // sdfsdf
