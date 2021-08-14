@@ -1,7 +1,7 @@
 window.onload = function () {
-  var hours = 9;
-  var minutes = 59;
-  var seconds = 55;
+  var hours = 0;
+  var minutes = 0;
+  var seconds = 0;
   var miliSeconds = 0;
 
   var hoursElement = document.getElementById("hours");
